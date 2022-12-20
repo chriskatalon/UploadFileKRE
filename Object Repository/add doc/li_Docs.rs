@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Docs</name>
+   <tag></tag>
+   <elementGuidId>6904e6e4-bdb9-4206-8787-62d869b8dbf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d85b19a1-3c80-4cf9-9aee-d7e74318ea43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-nav-h2 k-nav-closed k-nav-visible</value>
+      <webElementGuid>d78d1973-0c3c-4924-9938-9c7b800b04ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Docs
+</value>
+      <webElementGuid>51d27372-e6ae-4b28-bb27-b922a07f66ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-touchevents&quot;]/body[@class=&quot;k-fixed-navbar k-force-navbar-buttons&quot;]/div[@class=&quot;k-sidebar-host k-sidebar-hidden&quot;]/div[@class=&quot;k-navpanel k-navpanel-right&quot;]/ul[@class=&quot;k-navpanel-nav&quot;]/li[@class=&quot;k-nav-h2 k-nav-closed k-nav-visible&quot;]</value>
+      <webElementGuid>c030eecb-7915-49f5-9152-2ade35a82fe1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[1]/following::li[1]</value>
+      <webElementGuid>ed543750-0073-4aee-a873-6f51a6c02ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::li[2]</value>
+      <webElementGuid>67403fee-769c-4f86-bb96-a75081eaf417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::li[1]</value>
+      <webElementGuid>54051757-9552-4369-8065-f1edda0701a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOTTOM'])[1]/preceding::li[2]</value>
+      <webElementGuid>3e3c214f-6721-40ff-b97c-72baa9c40b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Docs']/parent::*</value>
+      <webElementGuid>254ccd3c-8b72-442e-9a2f-32af9968d0ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]</value>
+      <webElementGuid>5eeeeee7-e80c-474a-84b7-6d17df60a926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Docs
+' or . = 'Docs
+')]</value>
+      <webElementGuid>b06fd51b-dd14-4131-a35c-c6118028ea08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

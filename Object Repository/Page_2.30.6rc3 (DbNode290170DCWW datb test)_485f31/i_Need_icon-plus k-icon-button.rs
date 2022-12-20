@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Need_icon-plus k-icon-button</name>
+   <tag></tag>
+   <elementGuidId>c27e01c8-3b63-4ef2-aafc-63c20272c297</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='RR719103:3']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//tr[4]/td[2]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4cb3aed3-27de-403e-96ab-483a78cab130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-plus k-icon-button</value>
+      <webElementGuid>0d5cf07b-e6eb-4dfa-b61c-4e59293acb26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath2</name>
+      <type>Main</type>
+      <value>id(&quot;RR719103:3&quot;)/i[@class=&quot;icon-plus k-icon-button&quot;]</value>
+      <webElementGuid>5c5c1a7a-f918-46ea-ab83-61d7105b69f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/a/i</value>
+      <webElementGuid>4fbf6219-53e7-48ce-8df0-af75c78eb4e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='RR719103:3']/i</value>
+      <webElementGuid>2c39727f-3926-436c-860d-737e4d9f0f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/a/i</value>
+      <webElementGuid>013641b8-1b9a-49d3-a099-0f32194d6045</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

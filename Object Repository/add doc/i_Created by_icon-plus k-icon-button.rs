@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Created by_icon-plus k-icon-button</name>
+   <tag></tag>
+   <elementGuidId>e1d08596-077a-453a-8864-cc2dd670b4fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[5]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-plus.k-icon-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>02ff0ba2-6a53-4763-a31e-0abcd21efd6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-plus k-icon-button</value>
+      <webElementGuid>cae9accd-9a08-4906-8588-89f47d71b1e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RR291453:0&quot;)/i[@class=&quot;icon-plus k-icon-button&quot;]</value>
+      <webElementGuid>f64b403f-d1a3-48fe-9bf4-a5f45e5eb722</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='RR291453:0']/i</value>
+      <webElementGuid>d9ee43b3-664e-4e06-ab7a-ba5fb4191fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]/a/i</value>
+      <webElementGuid>51713335-13d9-4c4c-bda5-a5c17912b03e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

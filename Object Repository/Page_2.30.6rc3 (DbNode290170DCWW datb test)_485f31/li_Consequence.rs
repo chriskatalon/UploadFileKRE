@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Consequence</name>
+   <tag></tag>
+   <elementGuidId>6162e6ac-5ae7-42dc-a65f-b66bb6a5a917</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[2]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8d680bfd-030a-4321-8e8c-c026d5987e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-nav-h2 k-nav-closed k-nav-visible</value>
+      <webElementGuid>a76e8d65-c3b1-4751-bb29-21ea0a5a8578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consequence
+</value>
+      <webElementGuid>d025bd33-c56b-4375-b6a9-f55b4284cc6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-touchevents&quot;]/body[@class=&quot;k-fixed-navbar k-force-navbar-buttons&quot;]/div[@class=&quot;k-sidebar-host k-sidebar-hidden&quot;]/div[@class=&quot;k-navpanel k-navpanel-right&quot;]/ul[@class=&quot;k-navpanel-nav&quot;]/li[@class=&quot;k-nav-h2 k-nav-closed k-nav-visible&quot;]</value>
+      <webElementGuid>a223820c-162b-413b-b184-0320dda242e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[2]/following::li[1]</value>
+      <webElementGuid>6b9e1bb2-26fa-4f8e-af63-aa8191b2e084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOP'])[1]/following::li[2]</value>
+      <webElementGuid>6a93337b-7cba-4f9a-928c-2e14ab808cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scoring'])[1]/preceding::li[1]</value>
+      <webElementGuid>997aa427-f349-407f-bbd1-d04fe659ea2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promotion'])[1]/preceding::li[2]</value>
+      <webElementGuid>e67a9d80-e7a0-4cc2-8b7a-90952495afac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Consequence']/parent::*</value>
+      <webElementGuid>1a3c3995-c1fa-469c-b80a-6e3af4570115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[2]</value>
+      <webElementGuid>d0ee0a27-4040-4457-9620-8d2443368955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Consequence
+' or . = 'Consequence
+')]</value>
+      <webElementGuid>3d54ce59-4144-4a91-bf8d-233cec5d2379</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

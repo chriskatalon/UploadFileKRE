@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Actions_icon-caret-right k-toggle k-icon-button-keyboard k-icon-button</name>
+   <tag></tag>
+   <elementGuidId>b93a6570-9f5f-4bd7-87f0-af8a4d82e175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='v290685tab100018']/div/h2/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#v290685tab100018 > div.col-sm-12 > h2.k-heading-toggle.k-heading-topborder > i.icon-caret-right.k-toggle.k-icon-button-keyboard.k-icon-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>68d23a94-fd5e-45f1-9c31-b7ed49770b83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-caret-right k-toggle k-icon-button-keyboard k-icon-button</value>
+      <webElementGuid>0d60d865-c1c8-41b8-a255-8fbaaa4b23e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-k-go</name>
+      <type>Main</type>
+      <value>292825</value>
+      <webElementGuid>1d21ea60-db09-4607-a51e-6e9187bd4ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>2033</value>
+      <webElementGuid>13b1617e-4b2f-43ae-a5ff-5d02982fe6ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;v290685tab100018&quot;)/div[@class=&quot;col-sm-12&quot;]/h2[@class=&quot;k-heading-toggle k-heading-topborder&quot;]/i[@class=&quot;icon-caret-right k-toggle k-icon-button-keyboard k-icon-button&quot;]</value>
+      <webElementGuid>936bf5bf-89bb-46d1-a9b4-1c330b4023c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='v290685tab100018']/div/h2/i</value>
+      <webElementGuid>fedfc583-dc28-4f4c-a0e1-4389ec4dcf42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[10]/div/div/h2/i</value>
+      <webElementGuid>5c6ef138-fcd0-4cd9-aa3f-220ad9fd2921</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

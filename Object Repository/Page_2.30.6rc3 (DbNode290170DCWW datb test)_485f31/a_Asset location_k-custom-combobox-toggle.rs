@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Asset location_k-custom-combobox-toggle</name>
+   <tag></tag>
+   <elementGuidId>88f83e4e-1fe1-41f0-9ca1-f20c62f35e76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-field-set > div.k-select.k-select-fontawesome.form-control > span.k-custom-combobox > a.k-custom-combobox-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form719685']/div[2]/div[2]/div/div/div/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>be3ae264-dd44-4518-8d26-cd00e257a5e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-custom-combobox-toggle</value>
+      <webElementGuid>605f8282-71dd-43c3-b414-a934b690247d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form719685&quot;)/div[@class=&quot;container k-view-body&quot;]/div[@class=&quot;form-group form-inline k-has-top-decor&quot;]/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;k-field-set&quot;]/div[@class=&quot;k-select k-select-fontawesome form-control&quot;]/span[@class=&quot;k-custom-combobox&quot;]/a[@class=&quot;k-custom-combobox-toggle&quot;]</value>
+      <webElementGuid>acf28c76-19ef-491b-9b44-4b6bf3547caf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form719685']/div[2]/div[2]/div/div/div/span/a</value>
+      <webElementGuid>6232c4fe-f70b-4cc9-b991-082bf8f353bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/span/a</value>
+      <webElementGuid>4d4f1700-e124-47a2-9a39-9e014b4167ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OK</name>
+   <tag></tag>
+   <elementGuidId>98130b28-7e5f-4faf-9012-5452e5b20777</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[8]/div/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form291504']/div[2]/div[8]/div/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-bottom-main-buttons-inner > button[name=&quot;BRv291504O&quot;] > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>21cd568c-04eb-4b78-bb22-db37f63ddc48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> OK</value>
+      <webElementGuid>bd658956-95c4-414c-9b81-057f18cfef45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath2</name>
+      <type>Main</type>
+      <value>id(&quot;form291504&quot;)/div[@class=&quot;container k-view-body&quot;]/div[@class=&quot;k-bottom-main-buttons-wrapper&quot;]/div[@class=&quot;k-bottom-main-buttons&quot;]/div[@class=&quot;k-bottom-main-buttons-inner&quot;]/button[@class=&quot;btn btn-primary&quot;]/span[1]</value>
+      <webElementGuid>185ae45c-70bc-4fcf-b05d-05b75a8458c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/button[2]/span</value>
+      <webElementGuid>909c7651-b57f-419f-8832-b8ed4028be89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form291504']/div[2]/div[8]/div/div/button[2]/span</value>
+      <webElementGuid>349afcf5-32ca-4de7-97b4-ffc6da546945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[6]/following::span[1]</value>
+      <webElementGuid>172e2261-3774-478f-a68b-19b25b8a56d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Allowed'])[1]/following::span[2]</value>
+      <webElementGuid>f8c326ad-d8fb-40d4-b5df-e054c46438e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[1]</value>
+      <webElementGuid>72676ba8-86f1-4f8a-8708-8cba56302e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::span[2]</value>
+      <webElementGuid>ae6cfe28-ca8f-486c-8d27-454d61899db3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/button[2]/span</value>
+      <webElementGuid>afb6fd4e-2027-4a07-9581-df2bee7c0994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' OK' or . = ' OK')]</value>
+      <webElementGuid>2680792f-3598-4e34-8c01-2f727377c3af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

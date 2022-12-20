@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save Need</name>
+   <tag></tag>
+   <elementGuidId>52d5fc59-45e5-486d-ab0a-f48eb55496d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form719154']/div[2]/div[6]/div/div/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[6]/div/div/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-bottom-main-buttons-inner > button[name=&quot;BRv719154O&quot;] > i.icon-ok</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f71d1870-4392-4726-bd24-9094580861a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-ok</value>
+      <webElementGuid>216b9d2d-1362-45f9-847f-43ac011752ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath2</name>
+      <type>Main</type>
+      <value>id(&quot;form719154&quot;)/div[@class=&quot;container k-view-body is-fixed&quot;]/div[@class=&quot;k-bottom-main-buttons-wrapper&quot;]/div[@class=&quot;k-bottom-main-buttons k-bottom-buttons-fixed&quot;]/div[@class=&quot;k-bottom-main-buttons-inner&quot;]/button[@class=&quot;btn btn-default&quot;]/i[@class=&quot;icon-ok&quot;]</value>
+      <webElementGuid>cdac34d6-90b4-4989-b23c-ce47571517ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/button[2]/i</value>
+      <webElementGuid>39663914-2cde-443c-8c0e-3b4206acd1ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form719154']/div[2]/div[6]/div/div/button[2]/i</value>
+      <webElementGuid>d8fe3a60-54f2-4bdc-9243-52e22a8227e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/button[2]/i</value>
+      <webElementGuid>bb20ef6d-09de-4916-a72b-268044f933f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

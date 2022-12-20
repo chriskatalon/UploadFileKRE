@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_WQZ_L16 - Malpas  Caerleon  Cwmbran_icon-_4722ef</name>
+   <tag></tag>
+   <elementGuidId>1efd4fe6-136c-43a9-acf2-c495a2bbc0c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='RR721306:7']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//tr[3]/td[2]/span/span/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7af5072f-0537-425c-aaa0-e813f69b4eed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-hand-right k-icon-button</value>
+      <webElementGuid>a3dc5e08-8f3e-4378-994a-5109cb4c7833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath2</name>
+      <type>Main</type>
+      <value>id(&quot;RR721306:7&quot;)/i[@class=&quot;icon-hand-right k-icon-button&quot;]</value>
+      <webElementGuid>609508f3-5453-4890-a7d6-ceb226d1f1f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/span/span/a/i</value>
+      <webElementGuid>7706188c-4674-4126-aa7a-77ca808a22d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='RR721306:7']/i</value>
+      <webElementGuid>32eab8cb-cfb9-45f8-89f1-c46993f994fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/span/span/a/i</value>
+      <webElementGuid>e377f34b-8e49-4edc-83dc-5b27e24b9b20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

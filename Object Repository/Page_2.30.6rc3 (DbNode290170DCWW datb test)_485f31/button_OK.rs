@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OK</name>
+   <tag></tag>
+   <elementGuidId>4db58156-8891-4cef-b944-a28b84843825</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form719685']/div[2]/div[4]/div/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-bottom-main-buttons-inner > button[name=&quot;D113995&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[4]/div/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a5969188-0545-4fb7-a780-174704061365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> OK</value>
+      <webElementGuid>b4c7668c-0c0b-44aa-b745-f0fb550488ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath2</name>
+      <type>Main</type>
+      <value>id(&quot;form719685&quot;)/div[@class=&quot;container k-view-body&quot;]/div[@class=&quot;k-bottom-main-buttons-wrapper&quot;]/div[@class=&quot;k-bottom-main-buttons&quot;]/div[@class=&quot;k-bottom-main-buttons-inner&quot;]/button[@class=&quot;btn btn-default&quot;]/span[1]</value>
+      <webElementGuid>fefe0e22-1209-4823-933e-e82ccc154b2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5c456d44-85fe-42c6-923d-087ed0d21e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button[2]/span</value>
+      <webElementGuid>df42ad6e-eea5-4b23-b4c5-8abd0d415bcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form719685']/div[2]/div[4]/div/div/button[2]/span</value>
+      <webElementGuid>05e91304-e5f3-429a-be48-6d69ade741b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[6]/following::span[1]</value>
+      <webElementGuid>a7f5abaa-a710-4680-afa4-f78ce2e54a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURR'])[4]/following::span[2]</value>
+      <webElementGuid>938cba47-72d5-475b-b23f-c612914d56d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CWI Ancillaries (Valves Hydrants etc)'])[3]/preceding::span[1]</value>
+      <webElementGuid>030e8db8-8555-4c6f-bf39-6c313e87b47d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CWI Dams Impounding Reservoirs Aqueducts'])[2]/preceding::span[1]</value>
+      <webElementGuid>a769416e-cda1-45d9-ab11-f199d4a2f7c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button[2]/span</value>
+      <webElementGuid>cbb67dc4-5399-49ca-929e-8de5168d5ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' OK' or . = ' OK')]</value>
+      <webElementGuid>463dc50c-666f-4fb0-ac89-1dd8b1a4e2cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

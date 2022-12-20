@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Tags_icon-caret-right</name>
+   <tag></tag>
+   <elementGuidId>e7795e6b-662f-4dc2-acdd-40f1d9d795e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;v290685tab100048&quot;)/div[@class=&quot;col-sm-12&quot;]/h2[@class=&quot;k-heading-toggle k-heading-topborder&quot;]/i[@class=&quot;icon-caret-right k-toggle k-icon-button-keyboard k-icon-button&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[11]/div/div/h2/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#v290685tab100048 > div.col-sm-12 > h2.k-heading-toggle.k-heading-topborder > i.icon-caret-right.k-toggle.k-icon-button-keyboard.k-icon-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>022373ca-bd94-4d2e-ad9a-a37aaf1d1c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-caret-right k-toggle k-icon-button-keyboard k-icon-button</value>
+      <webElementGuid>0a527c26-2964-478d-b751-47c318999247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-k-go</name>
+      <type>Main</type>
+      <value>291061</value>
+      <webElementGuid>c80aeec9-7389-4f3b-8693-88cf545e74ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>2034</value>
+      <webElementGuid>553ef2d5-d040-4248-839b-8c560781dd71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;v290685tab100048&quot;)/div[@class=&quot;col-sm-12&quot;]/h2[@class=&quot;k-heading-toggle k-heading-topborder&quot;]/i[@class=&quot;icon-caret-right k-toggle k-icon-button-keyboard k-icon-button&quot;]</value>
+      <webElementGuid>fc356f61-77f5-435f-ad45-adda9616f5df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='v290685tab100048']/div/h2/i</value>
+      <webElementGuid>289e9d0c-685b-4554-b9a5-67d51d93ecca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[11]/div/div/h2/i</value>
+      <webElementGuid>409b84b5-ea1e-4363-aeb1-073c332389d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
