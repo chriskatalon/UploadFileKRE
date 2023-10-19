@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Upload File - Copy</name>
+   <name>Upload File with Custom script</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>2e75ce24-2315-4281-8a91-ea0ec438f627</testCaseGuid>
