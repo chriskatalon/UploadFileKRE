@@ -16,12 +16,30 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.WebDriver as WebDriver
+import org.openqa.selenium.remote.LocalFileDetector as LocalFileDetector
+import org.openqa.selenium.support.events.EventFiringWebDriver as EventFiringWebDriver
+import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import com.kms.katalon.selenium.driver.CRemoteWebDriver as CRemoteWebDriver
 
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://test.gatsby-driver.com/')
 
-def filePath = System.getProperty('user.dir') + '/Katalon-Devices 1.JPG'
+WebUI.enableSmartWait()
+
+EventFiringWebDriver driver = DriverFactory.getWebDriver()
+
+WebDriver wrappedDriver = driver.getWrappedDriver()
+
+System.out.println(wrappedDriver.getClass())
+
+if (wrappedDriver.class == CRemoteWebDriver) {
+    wrappedDriver.setFileDetector(new LocalFileDetector())
+}
+
+String filePath = new File((RunConfiguration.getProjectDir() + '/') + '/Katalon-Devices 1.JPG').getCanonicalPath()
 
 println(filePath)
 
@@ -40,12 +58,15 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Drivers Port
 WebUI.click(findTestObject('Object Repository/Page_Drivers Portal - Gatsby/p_Documents'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Drivers Portal - Gatsby/button_Add a Document'), FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('Object Repository/Page_Drivers Portal - Gatsby/button_Add a Document'))
 
 //WebUI.uploadFile(findTestObject('Object Repository/Page_Drivers Portal - Gatsby/button_Choose file'), filePath)
 WebUI.uploadFile(findTestObject('Object Repository/Page_Drivers Portal - Gatsby/input-file'), filePath)
+
 WebUI.delay(10)
+
 WebUI.takeScreenshot(FailureHandling.STOP_ON_FAILURE)
 
-//WebUI.closeBrowser()
+WebUI.closeBrowser()
 
