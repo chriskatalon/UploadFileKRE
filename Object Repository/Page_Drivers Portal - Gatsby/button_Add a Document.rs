@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add a Document</name>
+   <tag></tag>
+   <elementGuidId>2f914442-89ee-44a0-b28a-34b595a279f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5a876872-adeb-4580-80e3-8cea5f5cf789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bb5e9f89-c237-4557-94b1-ab1772d28f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>5fb648e3-c9a8-4c84-b452-50af92b82386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add a Document
+</value>
+      <webElementGuid>0906d645-67ae-4098-be01-94ce714bbd65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-wrapper&quot;)/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;driver-documents-table mt-md-4 mt-3 ng-star-inserted&quot;]/div[@class=&quot;driver-documents-table d-none d-lg-block ng-star-inserted&quot;]/div[@class=&quot;p-5&quot;]/app-button-primary-controlled[@class=&quot;secondary mobile-wide&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>50d84c88-f853-4c85-b121-3919847eda35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>a17beb5f-698d-4525-bf8a-8dfeef34813b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-wrapper']/ng-component/div[2]/div/div/app-button-primary-controlled/button</value>
+      <webElementGuid>e4b753e7-96f5-4c26-9628-5cf26f568e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-button-primary-controlled/button</value>
+      <webElementGuid>e7657e18-f165-48f9-9d67-f2c08c9edfd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Add a Document
+' or . = ' Add a Document
+')]</value>
+      <webElementGuid>86efb3da-5e43-4f2b-a501-9b72c93fb96a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Documents</name>
+   <tag></tag>
+   <elementGuidId>1842e485-f7b8-417c-bdd9-1685423dabf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='navigation-3']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#navigation-3 > p.menu-item-title.mt-auto.mb-auto.ms-0.me-0.ps-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6c848106-5d76-4933-a7f1-381ac0286b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item-title mt-auto mb-auto ms-0 me-0 ps-3</value>
+      <webElementGuid>c77d5bad-a135-458b-a7c9-1fc71cfee3a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Documents</value>
+      <webElementGuid>723a8f45-8ac2-470d-a958-1f991d857b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation-3&quot;)/p[@class=&quot;menu-item-title mt-auto mb-auto ms-0 me-0 ps-3&quot;]</value>
+      <webElementGuid>93d0fbf9-84fd-4820-bc90-ab0f2ceb4db1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='navigation-3']/p</value>
+      <webElementGuid>a2cc869a-57b9-4cd2-b3ed-5e2c160da3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-navigation-item[3]/a/p</value>
+      <webElementGuid>0961ed69-7fca-4b6d-95a6-65bed3569366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Documents' or . = 'Documents')]</value>
+      <webElementGuid>01159853-1cdd-4621-82f7-65b6a2d3f7fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
