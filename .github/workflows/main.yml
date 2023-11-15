@@ -1,0 +1,29 @@
+name: Caryln
+​
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "master" branch
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+​
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+​
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+    - name: Prepare
+      run: |
+            sudo apt-get -y install xvfb
+            sudo /usr/bin/Xvfb :0 -screen 0 1280x1024x24 &
+            
+    - name: Katalon Studio Github Action
+      uses: katalon-studio/katalon-studio-github-action@v2
+      with:
+          version: '9.0.0'
+          projectPath: '${{ github.workspace }}'
+          args: '-retry=0 -testSuitePath="Test Suites/TS2 - Gats by" -browserType="Chrome" -executionProfile="default" -apiKey="f42f0470-19df-42a9-b9a5-641afaa1f1df" -orgID=482208 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true'
