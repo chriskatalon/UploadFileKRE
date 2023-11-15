@@ -1,3 +1,5 @@
+name: Chris
+
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
@@ -18,6 +20,9 @@ jobs:
       run: |
             sudo apt-get -y install xvfb
             sudo /usr/bin/Xvfb :0 -screen 0 1280x1024x24 &
+      env:
+          JAVA_HOME: $(JAVA_HOME_8_X64)
+          PATH: $(JAVA_HOME_8_X64)/bin:$(PATH)
             
     - name: Katalon Studio Github Action
       uses: katalon-studio/katalon-studio-github-action@v2
@@ -25,6 +30,4 @@ jobs:
           version: '8.6.8'
           projectPath: '${{ github.workspace }}'
           args: '-retry=0 -testSuitePath="Test Suites/TS2 - Gats by" -browserType="Chrome" -executionProfile="default" -apiKey="f42f0470-19df-42a9-b9a5-641afaa1f1df" -orgID=482208 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true'
-      env:
-          JAVA_HOME: $(JAVA_HOME_8_X64)
-          PATH: $(JAVA_HOME_8_X64)/bin:$(PATH)
+      
