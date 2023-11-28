@@ -39,7 +39,7 @@ if (wrappedDriver.class == CRemoteWebDriver) {
 String filePath = new File(RunConfiguration.getProjectDir() + '/Data Files/' + "$file").getCanonicalPath()
 //def filePath = System.getProperty('user.dir') + '/Katalon-Devices 1.JPG'
 
-println(filepath)
+println(filePath)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Resumable File Upload Demo  tus.io/input_Select a file you want to upload_P0-0'))
 
